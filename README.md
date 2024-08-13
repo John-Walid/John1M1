@@ -1,4 +1,3 @@
-# JOHN1M1
-## learn verion control using git and 
-### ME AND MY TEAM
+# John Walid
+## Python Developer and Data Analyst
 learn version control
